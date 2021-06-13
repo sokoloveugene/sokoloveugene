@@ -1,4 +1,4 @@
-### Hi there 👋
+🤓 Frontend developer 🤯 I’m currently learning Node.js
 
 <!--
 **sokoloveugene/sokoloveugene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
